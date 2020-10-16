@@ -1,0 +1,37 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    width: 851px;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+p, div {
+    margin-left: 12px;
+}
+
+div p {
+    margin-left: unset;
+}
+
+#lastResult {
+    color: white;
+    padding: 3px;
+}
+
+#stannis:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+img {
+    position: absolute;
+    top: 5px;
+    left: 420.825px;
+    
+    width: 76.5px;
+}

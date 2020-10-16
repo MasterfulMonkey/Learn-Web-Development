@@ -1,0 +1,40 @@
+html {
+  background-color: #571557;
+}
+
+body {
+  font-family: helvetica, sans-serif;
+  color: white;
+}
+body div {
+  padding-bottom: 20px;
+}
+body div label {
+  font-weight: bold;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+body div label[for=customName] {
+  letter-spacing: 0.03em;
+}
+body div input[type=text] {
+  padding: 5px;
+  width: 150px;
+  margin-right: 10px;
+}
+body div #randomize {
+  margin-left: 5px;
+  font-family: monospace;
+}
+body p {
+  background: #FFC125;
+  color: #5E2612;
+  padding: 10px;
+  visibility: hidden;
+  margin: 0 auto;
+  width: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 15px 0 rgba(0, 0, 0, 0.3);
+  text-align: justify;
+  text-shadow: none;
+}
+
+/*# sourceMappingURL=style.css.map */

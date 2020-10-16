@@ -1,0 +1,39 @@
+/* General styles */
+
+body {
+    margin: 0;
+}
+
+body > * {
+    padding: 10px;
+    font-size: 20px;
+    border: 20px solid rgba(0,0,0,0.5);
+}
+
+/* specific boxes */
+
+header, footer {
+    background-color: blue;
+    color: white;
+}
+
+main {
+    background-color: yellow;
+    margin-bottom: 20px;
+
+    margin: 5%;
+    padding: 5%;
+    border-width: 40px;
+
+    width: 60%;
+
+    margin-top: -50px;
+}
+
+header {
+
+}
+
+footer {
+    margin-top: 15px;
+}

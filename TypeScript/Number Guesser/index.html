@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <title>Number Guesser</title>
+        
+        <link rel="stylesheet" href="styles/scss/general.scss">
+        <script src="scripts/guesserGame.js" async></script>
+        <script src="scripts/stannis.js" async></script>
+    </head>
+    <body>
+        <h1>Number Guesser</h1>
+            <p>Guess a random number between 1 and 100 in 10 turns or <span id="stannis">less</span>. We'll tell you if your guess was too high or too low.</p>
+
+            <div class="guessForm">
+                <label for="guessField">Enter a guess: </label>
+                <input type="text" id="guessField">
+                <input type="submit" value="Submit guess" id="guessSubmit">
+            </div>
+
+            <div class="results">
+                <p id="guesses"></p>
+                <p id="lastResult"></p>
+            </div>
+    </body>
+</html>

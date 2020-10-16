@@ -1,0 +1,20 @@
+/* General styles */
+
+$backgroundColor: #520f41;
+
+body {
+    margin: 0;
+}
+
+html {
+    font: {
+        family:  'Helvetica neue', Arial, 'sans serif';
+        size: 10px;
+    }
+    
+    background-color: $backgroundColor;
+}
+
+/* Card content style */
+
+@import 'card';

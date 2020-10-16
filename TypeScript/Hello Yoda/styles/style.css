@@ -1,0 +1,22 @@
+body {
+  font-size: 20px;
+  margin: 0;
+  width: 100%;
+  height: auto;
+}
+body p {
+  display: inline-block;
+  margin: 20px;
+}
+body p:hover {
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+body div {
+  text-align: center;
+}
+body div img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+}
+
+/*# sourceMappingURL=style.css.map */
