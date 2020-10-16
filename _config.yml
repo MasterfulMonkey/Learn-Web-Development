@@ -1,6 +1,5 @@
 theme: jekyll-theme-midnight
-title: \"Learn Web Development\" Examples
-description: test2
+title: '"Learn Web Development" Examples'
 
 plugins:
   - jekyll-relative-links
