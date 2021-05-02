@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: lewismiddleton/cayman-dark
 title: '"Learn Web Development" Examples'
 
 plugins:
