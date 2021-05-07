@@ -1,5 +1,5 @@
 remote_theme: lewismiddleton/cayman-dark
-title: "Learn Web Development" Examples
+title: "'Learn Web Development' Examples"
 
 plugins:
   - jekyll-relative-links
